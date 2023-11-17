@@ -1,6 +1,6 @@
 # Onschool - Platform E-Learning dengan Laravel
 
-![Onschool](https://onschool.id/adm/images/1668673414.png)
+<img src="[link-to-your-logo](https://onschool.id/adm/images/1668673414.png)" alt="Onschool Logo" width="200" height="200">
 
 Onschool adalah platform E-Learning yang dibangun dengan menggunakan Laravel, sebuah framework PHP yang kuat. Aplikasi ini dirancang untuk menyediakan pengalaman belajar online yang efisien dan mudah diakses.
 
@@ -19,11 +19,4 @@ Onschool adalah platform E-Learning yang dibangun dengan menggunakan Laravel, se
 - Composer
 - MySQL atau database lainnya
 
-### Langkah-langkah
-
-1. **Clone Repositori:**
-
-   ```bash
-   git clone https://github.com/your-username/onschool.git
-   cd onschool
 
